@@ -1,0 +1,14 @@
+{
+  "name": "smoketest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/is-site-running.js"
+  },
+  "author": "Örjan Sjöholm",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "^4.6.0"
+  }
+}
